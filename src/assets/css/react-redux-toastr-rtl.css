@@ -1,0 +1,25 @@
+.redux-toastr {
+    direction: rtl;
+    text-align: right;
+}
+
+.redux-toastr .toastr .rrt-left-container {
+    right: 0;
+    left: auto;
+}
+
+.redux-toastr .toastr .rrt-middle-container {
+    float: right;
+    margin-left: 0;
+    margin-right: 80px;
+    text-align: right;
+}
+
+.redux-toastr .toastr .rrt-left-container, .redux-toastr .toastr .rrt-right-container {
+    float: right;
+}
+
+.redux-toastr .toastr .close-toastr {
+    left: 0;
+    right: auto;
+}
